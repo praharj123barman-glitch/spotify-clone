@@ -57,7 +57,7 @@ npm run dev
 
 ## 📸 Screenshot
 
-> *(Add a screenshot of your app here)*
+>![alt text](image.png)
 
 ---
 
